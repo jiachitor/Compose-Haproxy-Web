@@ -1,0 +1,17 @@
+ccollections
+OrderedDict
+p0
+((lp1
+(lp2
+(S'bogon'
+p3
+S'10.0.2.15'
+p4
+tp5
+a(lp6
+I7
+aS'2016-10-28 01:52:10'
+p7
+aaatp8
+Rp9
+.
